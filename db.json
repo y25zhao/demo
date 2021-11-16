@@ -1,9 +1,10 @@
 {
   "localdiscovery": 
-{
-  "serverurl": "https://woia02.ssdevrd.com",
-  "gid": "alexvprod2",
-  "un": "sakshis",
-  "pw": "Ssn123456"
-}
+  {
+    "serverurl": "https://woia02.ssdevrd.com",
+    "gid": "alexvprod2",
+    "un": "sakshis",
+    "pw": "Ssn123456"
+  },
+  "wrongunpass":{"serverurl": "https://cnsaas.ssdevrdwssda.com", "gid": "kal", "un": "ka", "pw": "ka" } 
 }
